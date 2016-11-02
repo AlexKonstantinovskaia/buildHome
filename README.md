@@ -1,7 +1,7 @@
 In order to use this project as a template for your own one you need to do following:
 
 - install git
-- clone this repository "git clone https://github.com/VikStar/project-template.git"
+- clone this repository 
 - cd project-template
 - rm .git -rf
 - install nodeJS
